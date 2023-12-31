@@ -149,3 +149,4 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 ### Generalized Rigid Transformation
 - 서로 수직인 두 unit vector $\hat{u}$, $\hat{v}$에 대해 $e^{\hat{u} \hat{v} \theta} := \cos\theta + \hat{u}\hat{v}\sin\theta$로 정의된다.
 	- $i = \hat{u}\hat{v}$라 하면 $i^2 = -1$이라는 점에서 Euler's formula와 통하는 면이 있다.
+	- PGA에서 $\hat{u}
