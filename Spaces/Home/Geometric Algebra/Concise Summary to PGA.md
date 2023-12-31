@@ -25,8 +25,13 @@
 - ${\left< A \right>}_k = A$일 때를 $A$ has a grade of $k$라고 한다.
 ## Geometric Product
 - 두 개의 multivector를 곱하는 가장 일반적인 형태이다.
-	- 가장 단순한 2차원에서의 평면벡터 연산을 고려한다.
-	- $e_0$, $e_1$은 일반적으로 생각하는 $x$, $y$ 방향의 단위벡터이다.
-	- 방향이 같은 두 평행한 vector $u$, $v$의 geometric product $uv$는 둘의 길이 곱이다.
-	- 방향이 반대인 두 평행한 vector $u$, $v$의 geometric product $uv$는 둘의 길이 곱에 $-$ 부호를 붙인다.
-	- 수직인 두 벡터의 geometric product는
+### Algebraic Properties
+- Orthonormal basis $e_1$ ~ $e_n$이 주어진다고 하자.
+- $i \ne j$면 $e_{ij}$는 bivector이며, $e_{ij} = -e_{ji}$이다.
+- $e_{ii} =: e_i^2$은 scalar이
+### Geometric Interpretation
+- 가장 단순한 2차원에서의 평면벡터 연산을 고려한다.
+- $e_0$, $e_1$은 일반적으로 생각하는 $x$, $y$ 방향의 단위벡터이다.
+- 방향이 같은 두 평행한 vector $u$, $v$의 geometric product $uv$는 둘의 길이 곱이다.
+- 방향이 반대인 두 평행한 vector $u$, $v$의 geometric product $uv$는 둘의 길이 곱에 $-$ 부호를 붙인다.
+- 수직인 두 벡터의 geometric product는
