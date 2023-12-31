@@ -118,4 +118,6 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 	- Outer product는 두 subspace가 span하는 subspace에 대응된다.
 	- 두 직선이 span하는 것은 두 직선의 선형결합으로, 그 교점을 지나는 임의의 직선이다.
 	- PGA에서 이 subspace는 이를 그 교점 자체라고 생각한다.
-- 저
+- 이와 같이 두 object가 만나는 것을 구하는 걸
+- 직선과 마찬가지로 scaling은 bivector가 지칭하는 점을 바꾸지 않는다.
+- Bivector $e_{12} + xe_{20} + ye_{01}$은 점 $(x, y)$에 대응된다.
