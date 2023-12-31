@@ -153,5 +153,4 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 	- $i = \hat{u}\hat{v}$라 하면 $i^2 = -1$이라는 점에서 Euler's formula와 통하는 면이 있다.
 	- $\hat{u}$는 unit vector이므로 $\hat{u}^2 = 1$이다. 이로부터 $e^{\hat{u}\hat{v}\theta} = \hat{u}(\hat{u}\cos\theta + \hat{v}\sin\theta)$라고도 쓴다.
 - Unit bivector로 표현되는 점 $\hat{P}$에 대해 object $A$를 $P$를 중심으로 $2\theta$ 회전시킨 object는 $e^{-\hat{P}\theta} A e^{\hat{P}\theta}$이다.
-	- $\theta>0$이면 반시계 방향 회전이다.
 - Unit vector로 표현되는 직선 $\hat{u}$에 대해 object $A$를 $\hat{u}$에 수직인 방향으로 $2x$ 평행이동시킨 object는 $e^{-\hat{u} e_0 x} A e^{\hat{u} e_0 x}$이다.
