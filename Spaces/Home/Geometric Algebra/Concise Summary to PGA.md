@@ -74,5 +74,6 @@
 ### Duals
 - Multivector $A$가 의미하는 object에 수직인 무언가를 의미하며, Hodge star를 사용하여 $\star A$라 표기한다.
 - 정의는 다음과 같다.
-	- Basis multivector 중 $k$가 가장 큰 것을 pseudoscalar $i$라 정의한다.
-		- 
+	- Basis multivector 중 $k$가 가장 큰 것을 pseudoscalar $i$라 한다.
+		- 엄밀한 정의는 이와 다른 것 같으나 orthonormal basis가 주어졌다면 괜찮다.
+		- 예시로 3차원 GA에서 $i = e_{012}
