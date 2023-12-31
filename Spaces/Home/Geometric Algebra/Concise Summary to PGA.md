@@ -81,8 +81,7 @@
 		- 엄밀한 정의는 이와 다른 것 같으나 orthonormal basis가 주어졌다면 괜찮다.
 		- 예시로 3차원 GA에서 $i = e_{012}$이다.
 	- 모든 basis multivector $E$의 dual $\star E$는 $EF = i$인 $F$로 정의한다.
-	- Basis가 아닌 multivector의 dual은 이로부터 선형성을 활용하여 적절히 정의한다.
-		- 이 예시는 후에 2D projective geometric algebra 중간에 설명한다.
+	- Basis가 아닌 multivector의 dual은 후술할 regressive product의 분배법칙이 잘 성립하도록, 즉 선형성이 잘 유지되도록 정의한다.
 ### Regressive Product
 - $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \vee B_k := \star^{-1} (\star A_j \wedge \star B_k)$이다.
 - $A \vee B = -B \vee A$이고, $A \vee A = 0$이다.
@@ -162,4 +161,5 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - 평면 $ax + by + cz + d = 0$은 vector $ae_1 + be_2 + ce_3 + e_0$에 대응된다.
 - 직선은 bivector이고, 점은 trivector이다.
 	- 2D PGA에서와 마찬가지로 근본적으로는 bivector, trivector는 span을 의미한다.
-## 
+## Meet
+- 두 object가 
