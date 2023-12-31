@@ -55,4 +55,7 @@
 - ${(\vec{u}\vec{v}\vec{w})}^\dagger := \vec{w}\vec{v}\vec{w}$
 - ${(\alpha A + \beta B)}^\dagger = \alpha A^\dagger + \beta B^\dagger$
 - Reverse는 $k=0,1,4,5,8,9, \cdots$에 대해 $k$-vector의 부호를 유지하며, $k=2,3,6,7,10,11,\cdots$에 대해 $k$-vector의 부호를 뒤집는다.
-### Grade Invo
+### Grade Involution
+- Reverse와 동일하나 부호의 반전에 대한 성질이 다른데, $k$가 홀수면 부호가 뒤집히고 짝수면 안 뒤집힌다.
+- $(\alpha A + \beta B)^* = \alpha A^* + \beta B^*$
+- 
