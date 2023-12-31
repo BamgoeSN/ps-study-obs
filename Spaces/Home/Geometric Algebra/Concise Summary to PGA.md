@@ -102,7 +102,9 @@
 - Inner product는 left/right contraction 중 nonzero인 것으로 정의하는 것과 같다.
 - 실용적인 연산은 아니지만, inner product와 관련된 성질을 전개할 때에 필요하다.
 # 2D Projective Geometric Algebra
-## Definition of Multivectors
+## Definition of Vectors in 2D PGA
 - 2D projective geometric algebra(PGA)는 $\mathbb{G}(2, 0, 1)$이다. $e_0^2 = 0$, $e_1^2 = e_2^2 = 1$이다.
 - 2D PGA에선 직선 $ax + by + c = 0$을 vector $ae_1 + be_2 + ce_0$으로 나타낸다.
-- 
+## Definition of Bivectors in 2D PGA
+- 두 직선 $\vec{u}$, $\vec{v}$의 outer product $\vec{u} \wedge \vec{v}$는
+- 두 vector의 선형결합은 두 직선의 교점을 지나는 임의의 직선에 대응된다.
