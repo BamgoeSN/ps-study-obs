@@ -146,4 +146,5 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - 평행한 두 직선 $\vec{u}$, $\vec{v}$에 대해 직선 $\vec{a}$를 $\vec{u} \rightarrow \vec{v}$ 방향으로 그 거리의 두 배만큼 평행이동시킨 직선은 $\vec{v}\vec{u}\vec{a}\vec{u}\vec{v}$이다.
 	- Rotation과 같은 식이다.
 ### Generalized Rigid Transformation
-- 두 unit vector $\hat{u}$, $\hat{v}$에 대해 
+- 평행하지 않은 두 unit vector $\hat{u}$, $\hat{v}$에 대해 $e^{\hat{u} \hat{v} \theta} := \cos\theta + \hat{u}\hat{v}\sin\theta$로 정의된다.
+	- $\
