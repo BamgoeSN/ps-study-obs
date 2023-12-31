@@ -127,3 +127,4 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - 평행한 두 직선의 교점을 계산하면 infinity point가 나오며, 그 방향은 두 직선의 방향이다.
 ## Projection
 - 2D PGA에서 multivector $A$를 multivector $B$에 projection한 것은 $(A \cdot B) B$이다.
+	- 이에 대한 설명이 필요하면 [이 영상](https://youtu.be/0i3ocLhbxJ4?t=1104)을 참고하는 것을 추천한다.
