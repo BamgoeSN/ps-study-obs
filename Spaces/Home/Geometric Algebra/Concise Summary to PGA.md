@@ -6,6 +6,7 @@
 - $n$차원 GA에서 $k$-vector는 $k$차원 subspace를 의미한다.
 - $k=0, 1, 2, 3$ 각각에 대해 scalar, vector, bivector, trivector라 부른다.
 - Multivector는 여러 개의 $k$-vector 합을 의미한다.
+- 두 개의 multivector를 곱하는 가장 기본적인 연산을 geometric product라 하며, 두 multivector $u$, $v$의 geometric product는 $uv$로 표기한다. 그 의미와 성질은 후술한다.
 ## Grade Projection Operator
 - 
 ## Basis Multivectors
