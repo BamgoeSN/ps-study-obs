@@ -148,5 +148,6 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 	- Rotation과 같은 식이다.
 ### Generalized Rigid Transformation
 - 서로 수직인 두 unit vector $\hat{u}$, $\hat{v}$에 대해 $e^{\hat{u} \hat{v} \theta} := \cos\theta + \hat{u}\hat{v}\sin\theta$로 정의된다.
+	- PGA에서만 통하는 정의인지, 어느 GA에 한정되는 정의인지 모르겠다.
 	- $i = \hat{u}\hat{v}$라 하면 $i^2 = -1$이라는 점에서 Euler's formula와 통하는 면이 있다.
-	- PGA에서 $\hat{u}
+	- $\hat{u}$는 unit vector이므로 $\hat{u}^2 = 1$이다. 이로부터 $e^{\hat{u}\hat{v}\theta} = \hat{u}(\hat{u}\cos\theta + \hat{v}\sin\theta)$fkrhe
