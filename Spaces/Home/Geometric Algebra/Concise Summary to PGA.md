@@ -140,6 +140,7 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - 두 직선 $\vec{a}$, $\vec{u}$에 대해 $\vec{u}$로 $\vec{a}$를 대칭시킨 직선은 $\vec{u}\vec{a}\vec{u}$이다.
 	- 이 식의 유도가 필요하면 [이 영상](https://youtu.be/0i3ocLhbxJ4?t=1366)을 참고하는 것을 추천한다.
 ### Rotation
-- 두 직선 $\vec{u}$, $\vec{v}$의 교점을 중심으로 $\vec{a}$를 $\vec{u} \rightarrow \vec{v}$에 따라 회전시킨 직선은 $\vec{v}\vec{u}\vec{a}\vec{u}\vec{v}$이다.
+- 두 직선 $\vec{u}$, $\vec{v}$의 교점을 중심으로 직선 $\vec{a}$를 $\vec{u} \rightarrow \vec{v}$의 방향으로 그 각도의 두 배만큼 회전시킨 직선은 $\vec{v}\vec{u}\vec{a}\vec{u}\vec{v}$이다.
 	-  $\vec{u}$에 대해 대칭시킨 후 $\vec{v}$에 대해 대칭시킨 것에 해당한다.
-#
+### Translation
+- 평행한 두 직선 $\vec{u}$, $\vec{v}$에 대해 직선 $\vec{a}$를 $\vec{u} \rightarrow \vec{v}$ 방향으로 그 거리의 두 배만큼 
