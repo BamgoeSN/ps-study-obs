@@ -79,3 +79,4 @@
 		- 예시로 3차원 GA에서 $i = e_{012}$이다.
 	- 모든 basis multivector $E$의 dual $\star E$는 $EF = i$인 $F$로 정의한다.
 	- Basis가 아닌 multivector의 dual은 이로부터 선형성을 활용하여 정의한다.
+		- ㅇ{} 후에 2D projective geometric algebra 중간에 설명한다.
