@@ -5,5 +5,10 @@
 ## Multivectors
 - $n$차원 GA에서 $k$-vector는 $k$차원 subspace를 의미한다.
 - $k=0, 1, 2, 3$ 각각에 대해 scalar, vector, bivector, trivector라 부른다.
-- Scalar의 basis는
 - Multivector는 여러 개의 $k$-vector 합을 의미한다.
+## Grade Projection Operator
+- 
+## Basis Multivectors
+- $3$차원 GA를 예시로 들어보자.
+	- Scalar basis는 $1$로 유일하다.
+	- Vector basis는 $e_0$, $e_1$, $e_2$ 세 개가 있다.
