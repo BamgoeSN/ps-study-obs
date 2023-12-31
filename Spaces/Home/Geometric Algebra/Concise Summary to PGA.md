@@ -69,5 +69,6 @@
 - Basis의 선형결합으로 이뤄진 vector에 대한 outer product는 다음과 같이 진행한다.
 	- $(e_{01} + e_{56}) \wedge (e_{1234} + e_{3456})$를 계산해보자.
 	- 분배법칙을 적용하면 $e_{01} \wedge e_{1234} + e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234} + e_{56} \wedge e_{3456}$이 된다.
-	- Index가 겹치는 게 있는 두 벡터의 outer product는 $0$이다. 정의에 의해 scalar 항은 사라지기 때문이다. 이를 적용하면 $e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234}$가 된다.
-	- Index가 겹치는 게 없는 
+	- Index가 겹치는 게 있는 basis multivector의 outer product는 $0$이다. 정의에 의해 scalar 항은 사라지기 때문이다. 이를 적용하면 $e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234}$가 된다.
+	- Index가 겹치는 게 없는 basis multivector의 outer product는 geometric product이다. 이를 적용하면 $e_{013456} + e_{561234} = e_{013456} + e_{123456}$을 얻는다.
+## 
