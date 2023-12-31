@@ -6,6 +6,7 @@
       {
         "id": "3e7006e0566d9adb",
         "type": "tabs",
+        "dimension": 54.929577464788736,
         "children": [
           {
             "id": "d6babe73a48188d2",
@@ -24,6 +25,7 @@
       {
         "id": "1bf545448eb09e91",
         "type": "tabs",
+        "dimension": 45.07042253521127,
         "children": [
           {
             "id": "2766d9870f1b4292",
@@ -183,9 +185,9 @@
   },
   "active": "d6babe73a48188d2",
   "lastOpenFiles": [
+    "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
     "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md",
     "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
-    "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
     "Spaces/Home/Geometric Algebra/Geometric Algebra.md",
     "Spaces/Home/Geometric Algebra",
     "Spaces/Home/Geometric Algebra/.md",
