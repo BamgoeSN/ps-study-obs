@@ -25,15 +25,16 @@
 - ${\left< A \right>}_k = A$일 때를 $A$ has a grade of $k$라고 한다.
 ## Geometric Product
 - 두 개의 multivector를 곱하는 가장 일반적인 형태이다.
-### Algebraic Properties
-- Orthonormal basis $e_1$ ~ $e_n$이 주어진다고 하자.
-- $i \ne j$면 $e_{ij}$는 bivector이며, $e_{ij} = -e_{ji}$이다.
-- $e_{ii} =: e_i^2$은 scalar이다.
-- 
 ### Geometric Interpretation
 - 가장 단순한 2차원에서의 평면벡터 연산을 고려한다.
 - $e_0$, $e_1$은 일반적으로 생각하는 $x$, $y$ 방향의 단위벡터이다.
 - 방향이 같은 두 평행한 vector $u$, $v$의 geometric product $uv$는 둘의 길이 곱이다.
 - 방향이 반대인 두 평행한 vector $u$, $v$의 geometric product $uv$는 둘의 길이 곱에 $-$ 부호를 붙인다.
 - 수직인 두 벡터의 geometric product는 bivector이다. 두 벡터로 만들어지는 직사각형에 대응된다.
-- 일반적인 두 벡터의 geometric product는, 한 벡터를 다른 벡터에 평행/수직인 성분으로 나누어 분배법칙을 적용하여 계산한다. 그러면 scalar + bivector 형태의 식
+- 일반적인 두 벡터의 geometric product는, 한 벡터를 다른 벡터에 평행/수직인 성분으로 나누어 분배법칙을 적용하여 계산한다. 그러면 scalar + bivector 형태의 multivector가 나온다.
+### Algebraic Properties
+- Orthonormal basis $e_1$ ~ $e_n$이 주어진다고 하자.
+- $i \ne j$면 $e_{ij}$는 bivector이며, $e_{ij} = -e_{ji}$이다.
+- $e_{ii} =: e_i^2$은 scalar이다.
+- $e_i^2$의 값은 GA의 정의에 따라 다르며, $1$, $-1$, $0$ 중 하나이다.
+- 제곱이 $1$인 basis가 $p$개, $-1$인 게 $q$개, $0$인 게 $r$개 있는 GA를 $\mathbb{G}(p, q, r)$ 또는 $\mathrm{Cl}(p, q, r)
