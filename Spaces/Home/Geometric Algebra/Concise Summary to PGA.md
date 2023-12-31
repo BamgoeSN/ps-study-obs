@@ -76,4 +76,6 @@
 - 정의는 다음과 같다.
 	- Basis multivector 중 $k$가 가장 큰 것을 pseudoscalar $i$라 한다.
 		- 엄밀한 정의는 이와 다른 것 같으나 orthonormal basis가 주어졌다면 괜찮다.
-		- 예시로 3차원 GA에서 $i = e_{012}
+		- 예시로 3차원 GA에서 $i = e_{012}$이다.
+	- 모든 basis multivector $E$의 dual $\star E$는 $EF = i$인 $F$로 정의한다.
+	- Basis가 아닌 multivector의 dual은 이로부터 선형성을 활용하여 정의한다.
