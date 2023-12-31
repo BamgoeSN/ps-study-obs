@@ -78,5 +78,8 @@
 		- 엄밀한 정의는 이와 다른 것 같으나 orthonormal basis가 주어졌다면 괜찮다.
 		- 예시로 3차원 GA에서 $i = e_{012}$이다.
 	- 모든 basis multivector $E$의 dual $\star E$는 $EF = i$인 $F$로 정의한다.
-	- Basis가 아닌 multivector의 dual은 이로부터 선형성을 활용하여 정의한다.
-		- ㅇ{} 후에 2D projective geometric algebra 중간에 설명한다.
+	- Basis가 아닌 multivector의 dual은 이로부터 선형성을 활용하여 적절히 정의한다.
+		- 이 예시는 후에 2D projective geometric algebra 중간에 설명한다.
+### Regressive Product
+- $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \vee B_k := \star^-1 (\star A_j \wedge \star B_k)$이다.
+- 
