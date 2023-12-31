@@ -46,4 +46,7 @@
 		- 따라서 $(e_1 - e_0e_2)(2+e_1e_2-e_0e_1) = 2e_1 + e_2 + e_0 - 2e_{02} - e_{01}$이다.
 ## Relation with Transformations
 - 2차원 평면벡터를 다루는 GA에서의 회전
-	- 두 unit vectors $\hat{u}$, $\hat{v}$에 대해, 벡터 $\vec{a}$를 $\hat{u} \rightarrow \hat{v}$를 따라 회전시킨 벡터는 $\vec{a
+	- 두 unit vectors $\hat{u}$, $\hat{v}$에 대해, 벡터 $\vec{a}$를 $\hat{u} \rightarrow \hat{v}$를 따라 회전시킨 벡터는 $\vec{a}\hat{u}\hat{v} = \hat{v}\hat{u}\vec{a}$이다.
+- $n$차원 벡터를 다루는 GA에서의 대칭
+	- 어떤 unit vector $\hat{v}$에 대해 $\vec{a}$를 대칭시킨 벡터는 $\hat{v}\vec{a}\hat{v}$이다.
+	- 더 나아가, 임의의 orthogonal transformation은 대칭의 연속으로 표현할 수 있다. 즉, 
