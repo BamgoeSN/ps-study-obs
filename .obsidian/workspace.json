@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md",
+                "file": "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md",
+                "file": "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md"
+                "file": "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d6babe73a48188d2",
+  "active": "2766d9870f1b4292",
   "lastOpenFiles": [
-    "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
     "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md",
+    "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
     "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
     "Spaces/Home/Geometric Algebra/Geometric Algebra.md",
     "Spaces/Home/Geometric Algebra",
