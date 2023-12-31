@@ -188,4 +188,8 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 ## Rigid Transformations
 - Object $A$를 평면 $\vec{a}$에 대해 대칭시킨 object는 $\vec{a} A \vec{a}$이다.
 - Object $A$를 직선 $\hat{B}$에 대해 $2\theta$ 회전시킨 object는 $e^{-\hat{B}\theta} A e^{\hat{B}\theta}$이다.
-- Object $A$를 
+- Object $A$를 평면 $\hat{a}$와 수직인 방향으로 $2x$ 평행이동시킨 object는 $e^{-\hat{a} e_0 x} A e^{\hat{a} e_0 x}$이다.
+## $n$-dimensional PGA
+- $(n-1)$차원 초평면을 vector로 정의한다.
+- $(n-k)$차원 object를 $k$-vector로 정의한다.
+- Meet, join, projection, rigid trans
