@@ -154,4 +154,8 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 	- Unit vector $\hat{u}$에 대해 $e^{\hat{u} e_0 x} = 1 + \hat{u}e_0x - \hat{u}(\hat{u}+e_0x)$이다.
 - Unit bivector로 표현되는 점 $\hat{P}$에 대해 object $A$를 $P$를 중심으로 $2\theta$ 회전시킨 object는 $e^{-\hat{P}\theta} A e^{\hat{P}\theta}$이다.
 - Unit vector로 표현되는 직선 $\hat{u}$에 대해 object $A$를 $\hat{u}$에 수직인 방향으로 $2x$ 평행이동시킨 object는 $e^{-\hat{u} e_0 x} A e^{\hat{u} e_0 x}$이다.
-# 
+# 3D Projective Geometric Algebra
+## Definition of Multivectors
+- 평면 $ax + by + cz + d = 0$은 vector $ae_1 + be_2 + ce_3 + e_0$에 대응된다.
+- 직선은 bivector이고, 점은 trivector이다.
+	- 
