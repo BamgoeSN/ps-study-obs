@@ -112,7 +112,10 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - $e_0$ 항만 있는 직선은 무한히 멀리 있는 영역에 대응된다.
 - $e_0^2 = 0$이므로, 이를 inner product에 적용해보면 모든 직선과 평행하면서 수직이다.
 ## Definition of Bivectors in 2D PGA
+- 2D PGA에서 bivector는 점을 의미한다.
 - 두 직선 $\vec{u}$, $\vec{v}$의 outer product $\vec{u} \wedge \vec{v}$는 직선의 교점에 대응된다.
 	- 두 vector의 선형결합은 두 직선의 교점을 지나는 임의의 직선에 대응된다.
 	- Outer product는 두 subspace가 span하는 subspace에 대응된다.
-	- 두 직선이 span하는 ㄱ
+	- 두 직선이 span하는 것은 두 직선의 선형결합으로, 그 교점을 지나는 임의의 직선이다.
+	- PGA에서 이 subspace는 이를 그 교점 자체라고 생각한다.
+- 저
