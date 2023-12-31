@@ -62,4 +62,6 @@
 ### Magnitude of Multivectors
 - $|A|^2 := \left< A^\dagger A \right>$
 - Magnitude가 음수일 때도 있기 때문에 일반적으로는 magnitude의 제곱만 다룬다.
-#
+## Other Products
+### Outer Product
+- $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \wedge B_k := {\left< A_jB_k \right>}_{j+k}$이다.
