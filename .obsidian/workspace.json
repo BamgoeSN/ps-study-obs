@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "7b5c79bc0a7cc606",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e7006e0566d9adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2766d9870f1b4292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6babe73a48188d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a7d1224d96493f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f4cd1b6af692b14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecd78d104f935a18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7da94fd36667124a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e74669b83bd01ad0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e328ae15ec57e48c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa8607b296470796",
+    "type": "split",
+    "children": [
+      {
+        "id": "cccdc21f65e0f744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57aade6cbdfd7374",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db04e7abc6001271",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d67afff090e5a239",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7ffbb84ac338e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d6babe73a48188d2",
+  "lastOpenFiles": [
+    "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
+    "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
+    "Spaces/Home/Geometric Algebra/Geometric Algebra.md",
+    "Spaces/Home/Geometric Algebra",
+    "Spaces/Home/Geometric Algebra/.md",
+    "undefined.md",
+    "Spaces/Home/Geometric Algebra/Untitled 4.md",
+    "Spaces/Home/Geometric Algebra/Untitled 2.md",
+    "Spaces/Home/Geometric Algebra/Untitled 1.md",
+    "Spaces/Home",
+    "Spaces",
+    "Untitled.md"
+  ]
+}
