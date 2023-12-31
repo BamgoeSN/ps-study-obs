@@ -103,4 +103,6 @@
 - 실용적인 연산은 아니지만, inner product와 관련된 성질을 전개할 때에 필요하다.
 # 2D Projective Geometric Algebra
 ## Definition of Multivectors
-- 2D 
+- 2D projective geometric algebra(PGA)는 $\mathbb{G}(2, 0, 1)$이다. $e_0^2 = 0$, $e_1^2 = e_2^2 = 1$이다.
+- 2D PGA에선 직선 $ax + by + c = 0$을 vector $ae_1 + be_2 + ce_0$으로 나타낸다.
+- 
