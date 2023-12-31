@@ -162,4 +162,6 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - 직선은 bivector이고, 점은 trivector이다.
 	- 2D PGA에서와 마찬가지로 근본적으로는 bivector, trivector는 span을 의미한다.
 ## Meet
-- 두 object가 
+- 두 object가 교차해서 만들어진 object를 meet라고 한다.
+- 두 평면 $A$, $B$가 만나서 생기는 직선은 $A \wedge B$이다.
+- 평면 $A$와 직선 $B$가 만나서 생기는 지
