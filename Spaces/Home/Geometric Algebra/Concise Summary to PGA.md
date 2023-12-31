@@ -14,4 +14,6 @@
 	- Vector basis는 $e_0$, $e_1$ 두 개가 있다.
 	- Bivector basis는 vector basis 2개의 모든 geometric product이다. 여기선 $e_0e_1$로 유일하다.
 		- 둘 이상의 vector basis의 geometric product는 편의상 index를 이어서 쓰는 것으로 표기한다. 예를 들어 $e_{01} := e_0 e_1$이다.
-- $n$차원 GA에서 어떤 basis $e$의 unit pseudobasis는 $eu = 
+- $n$차원 GA에서 unit pseudoscalar는 $e_{0 1 2 \cdots (n-1)}$로 정의된다.
+## Grade Projection Operator
+- Multivector $A$의 $k$차 grade projection $\left< A \right>
