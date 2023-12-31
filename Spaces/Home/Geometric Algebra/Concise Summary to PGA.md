@@ -131,6 +131,7 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - 점 $P$를 직선 $\vec{u}$를 projection한 점은 $(P \cdot \vec{u}) \vec{u}$이다.
 - 점 $P$를 지나고 직선 $\vec{u}$에 평행한 직선은 $(\vec{u} \cdot P)P$이다.
 	- 이 사실들의 유도에는 다음 성질이 사용된다.
+		- Vector $\vec{u}$와 bivector $P$에 대해 $\vec{u}P = \vec{u}\cdot P + \vec{u} \wedge P$이다.
 		- 점 $P$를 지나고 직선 $\vec{u}$에 수직인 직선은 $\vec{u} \cdot P$이다.
 		- 점 $P$가 직선 $\vec{u}$ 위에 있다면 $\vec{u} \cdot P = \vec{u}P$이다.
 		- Vector, bivector는 scaling 하더라도 그들이 지칭하는 object는 변하지 않는다.
