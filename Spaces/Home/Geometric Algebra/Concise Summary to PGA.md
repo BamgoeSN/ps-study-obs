@@ -5,4 +5,5 @@
 ## Multivectors
 - $n$차원 GA에서 $k$-vector는 $k$차원 subspace를 의미한다.
 - $k=0, 1, 2, 3$ 각각에 대해 scalar, vector, bivector, trivector라 부른다.
+- Scalar의 basis는
 - Multivector는 여러 개의 $k$-vector 합을 의미한다.
