@@ -22,3 +22,5 @@
 	- ${\left< a + be_1 + ce_2 + de_1e_2 \right>}_1 = be_1+ce_2$
 	- ${\left< a + be_1 + ce_2 + de_1e_2 \right>}_2 = de_1e_2$
 - ${\left< A \right>}_k = A$일 때를 $A$ has a grade of $k$라고 한다.
+## Geometric Product
+- 두 개의 multivector를 곱하는 가장 일반적인 형태이다.
