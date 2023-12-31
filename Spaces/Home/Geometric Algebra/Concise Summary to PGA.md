@@ -96,4 +96,8 @@
 		- $e_{12} \cdot e_{124} = e_{12124} = -e_{11224}$
 ### Left / Right Contraction
 - Contraction은 한쪽의 차원을 상쇄시킨다는 의미의 contraction이다.
-- Left contraction
+- Left contraction $A_j \lrcorner B_k := {\left< A_j B_k \right>}_{k-j}$는 $A_j$를 $B_k$에 projection한 것이다.
+- Right contraction $A_j \llcorner B_k := {\left< A_j B_k \right>}_{j-k}$는 $B_k$를 $A_j$에 projection한 것이다.
+- Grade가 음수인 grade projection은 항상 결과가 $0$인 것으로 간주한다.
+- Inner product는 left/right contraction 중 nonzero인 것으로 정의하는 것과 같다.
+- 실용적인 연산은 아니지만, inner product와 관련된 성질을 전개할 때에 필요하다.
