@@ -123,6 +123,7 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - 이와 같이 두 object가 만나는 것을 구하는 걸 PGA에선 두 object의 "meet"라고 한다.
 - 직선과 마찬가지로 scaling은 bivector가 지칭하는 점을 바꾸지 않는다.
 - Bivector $e_{12} + xe_{20} + ye_{01}$은 점 $(x, y)$에 대응된다.
+## A Line Pa
 ### Infinity Points
 - $e_{12}$ 항의 계수가 $0$인 bivector는 방향만 정의되어 있고 무한히 멀리 있는 점이다.
 - 평행한 두 직선의 교점을 계산하면 infinity point가 나오며, 그 방향은 두 직선의 방향이다.
@@ -158,4 +159,5 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 ## Definition of Multivectors
 - 평면 $ax + by + cz + d = 0$은 vector $ae_1 + be_2 + ce_3 + e_0$에 대응된다.
 - 직선은 bivector이고, 점은 trivector이다.
-	- 
+	- 2D PGA에서와 마찬가지로 근본적으로는 bivector, trivector는 span을 의미한다.
+## 
