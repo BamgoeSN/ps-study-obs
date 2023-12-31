@@ -89,4 +89,8 @@
 ### Inner Product
 - $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \cdot B_k := {\left< A_jB_k \right>}_{|j-k|}$이다.
 - $B$에 평행한 $A$의 성분을 $A_\parallel$라 할 때 $A \cdot B = A_\parallel B$이고 $B \cdot A = B A_\parallel$이다.
-- Basis의 선형결합으로 이뤄진 vector에 대한 inner product의 계산은 ou
+- Basis의 선형결합으로 이뤄진 vector에 대한 inner product의 계산은 다음과 같다.
+	- 전반적으로 outer product와 유사하다.
+	- 다만, 한 basis multivector가 다른 basis multivector에 "완전히" 포함되는 경우가 아니면 모든 항은 $0$이 되며, 그러한 경우라면 inner product는 geometric product가 된다.
+		- $e_{12} \cdot e_{134} = 0$
+		- 
