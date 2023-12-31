@@ -71,4 +71,8 @@
 	- 분배법칙을 적용하면 $e_{01} \wedge e_{1234} + e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234} + e_{56} \wedge e_{3456}$이 된다.
 	- Index가 겹치는 게 있는 basis multivector의 outer product는 $0$이다. 정의에 의해 scalar 항은 사라지기 때문이다. 이를 적용하면 $e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234}$가 된다.
 	- Index가 겹치는 게 없는 basis multivector의 outer product는 geometric product이다. 이를 적용하면 $e_{013456} + e_{561234} = e_{013456} + e_{123456}$을 얻는다.
-## 
+### Duals
+- Multivector $A$가 의미하는 object에 수직인 무언가를 의미하며, Hodge star를 사용하여 $\star A$라 표기한다.
+- 정의는 다음과 같다.
+	- Basis multivector 중 $k$가 가장 큰 것을 pseudoscalar $i$라 정의한다.
+		- 
