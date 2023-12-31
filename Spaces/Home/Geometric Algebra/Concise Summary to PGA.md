@@ -44,3 +44,6 @@
 		- $e_{ij} = -e_{ji}$임을 적용하면 $2e_1 + e_{112} + e_{011} - 2e_{02} + e_{0122} - e_{0021}$이다.
 		- 같은 basis의 제곱에 대한 식을 적용하면 $2e_1 + e_2 + e_0 - 2e_{02} - e_{01}$이다.
 		- 따라서 $(e_1 - e_0e_2)(2+e_1e_2-e_0e_1) = 2e_1 + e_2 + e_0 - 2e_{02} - e_{01}$이다.
+## Relation with Transformations
+- 2차원 평면벡터를 다루는 GA에서의 회전
+	- 두 unit vectors $\hat{u}$, $\hat{v}$에 대해, 벡터 $\vec{a}$를 $\hat{u} \rightarrow \hat{v}$를 따라 회전시킨 벡터는 $\vec{a
