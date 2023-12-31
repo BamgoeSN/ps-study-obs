@@ -65,3 +65,7 @@
 ## Other Products
 ### Outer Product
 - $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \wedge B_k := {\left< A_jB_k \right>}_{j+k}$이다.
+- Ortho
+- Basis의 선형결합으로 이뤄진 vector에 대한 outer product는 다음과 같이 진행한다.
+	- $(e_{01} + e_{56}) \wedge (e_{1234} + e_{3456})$를 계산해보자.
+	- 분배법칙을 적용하여 $e_{01} \wedge e_{1234} + e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234} + e_{56} \wedge e_{3456}$를 만든다.
