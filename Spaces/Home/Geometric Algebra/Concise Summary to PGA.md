@@ -101,3 +101,6 @@
 - Grade가 음수인 grade projection은 항상 결과가 $0$인 것으로 간주한다.
 - Inner product는 left/right contraction 중 nonzero인 것으로 정의하는 것과 같다.
 - 실용적인 연산은 아니지만, inner product와 관련된 성질을 전개할 때에 필요하다.
+# 2D Projective Geometric Algebra
+## Definition of Multivectors
+- 2D 
