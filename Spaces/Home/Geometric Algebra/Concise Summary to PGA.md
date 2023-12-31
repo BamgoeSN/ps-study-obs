@@ -172,4 +172,7 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - Join은 $\vee$로 계산된다.
 	- 두 점 $A$, $B$를 지나는 직선은 $A \vee B$이다.
 	- 직선 $A$와 점 $B$를 지나는 평면은 $A \vee B$이다.
-	- 세 점
+	- 세 점 $A$, $B$, $C$가 만나서 생기는 점은 $A \vee B \vee C$이다.
+## Projection
+- Object $A$를 object $B$에 projection한 것은 $(A \cdot B) B$이다.
+	- 점과 직선 - 점에서 직선에 내린 숫
