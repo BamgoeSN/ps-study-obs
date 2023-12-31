@@ -168,4 +168,8 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 	- 평면 $A$와 직선 $B$가 만나서 생기는 직선은 $A \wedge B$이다.
 	- 세 평면 $A$, $B$, $C$가 만나서 생기는 점은 $A \wedge B \wedge C$이다.
 ## Join
-- 두 object
+- 두 object가 span하는 object를 join이라 한다.
+- Join은 $\vee$로 계산된다.
+	- 두 점 $A$, $B$를 지나는 직선은 $A \vee B$이다.
+	- 직선 $A$와 점 $B$를 지나는 평면은 $A \vee B$이다.
+	- 세 점
