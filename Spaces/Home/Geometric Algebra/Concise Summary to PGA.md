@@ -87,4 +87,6 @@
 - $A \vee B = -B \vee A$이고, $A \vee A = 0$이다.
 - 대강 두 multivector가 의미하는 subspace의 교집합 정도에 해당한다.
 ### Inner Product
-- $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \cdot B_k := {\left< A_jB_k \right>}_{j+k}$이다.
+- $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \cdot B_k := {\left< A_jB_k \right>}_{|j-k|}$이다.
+- $A \cdot B$가 갖는 의미는 다음과 같다.
+	- $B$에 평행한 $A$의 성분을 $A_\parallel$, 수직인 성분을 $A_\perp$이라 하자.
