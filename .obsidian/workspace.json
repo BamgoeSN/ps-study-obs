@@ -8,6 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d6babe73a48188d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1bf545448eb09e91",
+        "type": "tabs",
+        "children": [
+          {
             "id": "2766d9870f1b4292",
             "type": "leaf",
             "state": {
@@ -18,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d6babe73a48188d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,9 +90,17 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "80ead2b78ff79f33",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
+                "file": "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
+                "file": "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md"
+                "file": "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md"
               }
             }
           }
@@ -170,8 +183,9 @@
   },
   "active": "d6babe73a48188d2",
   "lastOpenFiles": [
-    "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
+    "Spaces/Home/Geometric Algebra/Concise Summary to PGA.md",
     "Spaces/Home/Geometric Algebra/Projective Geometric Algebra.md",
+    "Spaces/Home/Geometric Algebra/Introduction to Basic Operations.md",
     "Spaces/Home/Geometric Algebra/Geometric Algebra.md",
     "Spaces/Home/Geometric Algebra",
     "Spaces/Home/Geometric Algebra/.md",
