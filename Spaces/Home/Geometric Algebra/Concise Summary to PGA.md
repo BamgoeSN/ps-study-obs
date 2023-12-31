@@ -58,4 +58,8 @@
 ### Grade Involution
 - Reverse와 동일하나 부호의 반전에 대한 성질이 다른데, $k$가 홀수면 부호가 뒤집히고 짝수면 안 뒤집힌다.
 - $(\alpha A + \beta B)^* = \alpha A^* + \beta B^*$
-- 
+- $(AB)^* = A^* B^*$
+### Magnitude of Multivectors
+- $|A|^2 := \left< A^\dagger A \right>$
+- Magnitude가 음수일 때도 있기 때문에 일반적으로는 magnitude의 제곱만 다룬다.
+#
