@@ -66,14 +66,15 @@
 ### Outer Product
 - $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \wedge B_k := {\left< A_jB_k \right>}_{j+k}$이다.
 - $A \wedge B = - B \wedge A$이다.
-- 
+- 대강 두 multivector가 의미하는 subspace가 span하는 subspace에 해당한다.
 - Basis의 선형결합으로 이뤄진 vector에 대한 outer product의 계산은 다음과 같이 진행한다.
 	- $(e_{01} + e_{56}) \wedge (e_{1234} + e_{3456})$를 계산해보자.
 	- 분배법칙을 적용하면 $e_{01} \wedge e_{1234} + e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234} + e_{56} \wedge e_{3456}$이 된다.
 	- Index가 겹치는 게 있는 basis multivector의 outer product는 $0$이다. 정의에 의해 scalar 항은 사라지기 때문이다. 이를 적용하면 $e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234}$가 된다.
 	- Index가 겹치는 게 없는 basis multivector의 outer product는 geometric product이다. 이를 적용하면 $e_{013456} + e_{561234} = e_{013456} + e_{123456}$을 얻는다.
 ### Duals
-- Multivector $A$가 의미하는 object에 수직인 무언가를 의미하며, Hodge star를 사용하여 $\star A$라 표기한다.
+- Multivector $A$가 의미하는 object에 수직인 object를 의미한다.
+- Hodge star를 사용하여 $\star A$라 표기한다.
 - 정의는 다음과 같다.
 	- Basis multivector 중 $k$가 가장 큰 것을 pseudoscalar $i$라 한다.
 		- 엄밀한 정의는 이와 다른 것 같으나 orthonormal basis가 주어졌다면 괜찮다.
@@ -85,3 +86,5 @@
 - $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \vee B_k := \star^{-1} (\star A_j \wedge \star B_k)$이다.
 - $A \vee B = -B \vee A$이고, $A \vee A = 0$이다.
 - 대강 두 multivector가 의미하는 subspace의 교집합 정도에 해당한다.
+### Inner Product
+- $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \cdot B_k := {\left< A_jB_k \right>}_{j+k}$이다.
