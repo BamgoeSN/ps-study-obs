@@ -8,7 +8,10 @@
 - Multivector는 여러 개의 $k$-vector 합을 의미한다.
 - 두 개의 multivector를 곱하는 가장 기본적인 연산을 geometric product라 하며, 두 multivector $u$, $v$의 geometric product는 $uv$로 표기한다. 그 의미와 성질은 후술한다.
 ## Basis Multivectors
+- GA는 multivector로 이뤄진 basis 체계를 갖는다.
 - $2$차원 GA를 예시로 들어보자.
 	- Scalar basis는 $1$로 유일하다.
 	- Vector basis는 $e_0$, $e_1$ 두 개가 있다.
-	- Bivector basis는 vector basis 2개의 모든 geometric product이다. 여기선 $e_
+	- Bivector basis는 vector basis 2개의 모든 geometric product이다. 여기선 $e_0e_1$로 유일하다.
+		- 둘 이상의 vector basis의 geometric product는 편의상 index를 이어서 쓰는 것으로 표기한다. 예를 들어 $e_{01} := e_0 e_1$이다.
+- 
