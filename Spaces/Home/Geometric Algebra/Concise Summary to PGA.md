@@ -195,4 +195,6 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - Meet, join, projection, rigid transformation 모두 동일하게 정의된다.
 # 참고 자료
 - 이 문서를 만들면서 참고한 자료들이기도 하지만, 이 문서가 무슨 소리인지 도저히 모르겠으면 아래 영상을 보는 것이 낫다는 의미이기도 하다.
-	- 
+- 상당히 압축적으로 정리한 자료들이므로 중간중간 멈추면서 봐야 할 수도 있다.
+	- https://youtu.be/2AKt6adG_OI
+	- https://youtu.be/0i3ocLhbxJ4
