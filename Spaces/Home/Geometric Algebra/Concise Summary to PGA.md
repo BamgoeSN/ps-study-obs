@@ -66,7 +66,8 @@
 ### Outer Product
 - $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \wedge B_k := {\left< A_jB_k \right>}_{j+k}$이다.
 - $A \wedge B = - B \wedge A$이다.
-- Basis의 선형결합으로 이뤄진 vector에 대한 outer product는 다음과 같이 진행한다.
+- 
+- Basis의 선형결합으로 이뤄진 vector에 대한 outer product의 계산은 다음과 같이 진행한다.
 	- $(e_{01} + e_{56}) \wedge (e_{1234} + e_{3456})$를 계산해보자.
 	- 분배법칙을 적용하면 $e_{01} \wedge e_{1234} + e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234} + e_{56} \wedge e_{3456}$이 된다.
 	- Index가 겹치는 게 있는 basis multivector의 outer product는 $0$이다. 정의에 의해 scalar 항은 사라지기 때문이다. 이를 적용하면 $e_{01} \wedge e_{3456} + e_{56} \wedge e_{1234}$가 된다.
@@ -81,5 +82,6 @@
 	- Basis가 아닌 multivector의 dual은 이로부터 선형성을 활용하여 적절히 정의한다.
 		- 이 예시는 후에 2D projective geometric algebra 중간에 설명한다.
 ### Regressive Product
-- $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \vee B_k := \star^-1 (\star A_j \wedge \star B_k)$이다.
-- 
+- $j$-vector $A_j$와 $k$-vector $B_k$에 대해 $A_j \vee B_k := \star^{-1} (\star A_j \wedge \star B_k)$이다.
+- $A \vee B = -B \vee A$이고, $A \vee A = 0$이다.
+- 대강 두 multivector가 의미하는 subspace의 교집합 정도에 해당한다.
