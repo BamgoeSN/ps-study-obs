@@ -147,9 +147,10 @@ $$ (a_1e_1 + a_2e_2 + a_0e_0) \cdot (b_1e_1 + b_2e_2 + b_0e_0) = a_1b_1 + a_2b_2
 - 평행한 두 직선 $\vec{u}$, $\vec{v}$에 대해 직선 $\vec{a}$를 $\vec{u} \rightarrow \vec{v}$ 방향으로 그 거리의 두 배만큼 평행이동시킨 직선은 $\vec{v}\vec{u}\vec{a}\vec{u}\vec{v}$이다.
 	- Rotation과 같은 식이다.
 ### Generalized Rigid Transformation
-- 그동한 PGA에서는 object가 scaling에 영향을 받지 않아 normalization이 필요 없었지만, transformation에 대해서는 multivector의 magnitude가 
+- 그동한 PGA에서는 object가 scaling에 영향을 받지 않아 normalization이 필요 없었지만, transformation에 대해서는 multivector의 magnitude가 중요해진다.
 - 서로 수직인 두 unit vector $\hat{u}$, $\hat{v}$에 대해 $e^{\hat{u} \hat{v} \theta} := \cos\theta + \hat{u}\hat{v}\sin\theta$로 정의된다.
 	- PGA에서만 통하는 정의인지, 어느 GA에 한정되는 정의인지 모르겠다.
 	- $i = \hat{u}\hat{v}$라 하면 $i^2 = -1$이라는 점에서 Euler's formula와 통하는 면이 있다.
 	- $\hat{u}$는 unit vector이므로 $\hat{u}^2 = 1$이다. 이로부터 $e^{\hat{u}\hat{v}\theta} = \hat{u}(\hat{u}\cos\theta + \hat{v}\sin\theta)$라고도 쓴다.
-- Unit bivector로 표현되는 점 $\hat{P}$에 대해
+- Unit bivector로 표현되는 점 $\hat{P}$에 대해 object $A$를 $P$를 중심으로 $2\theta$ 회전시킨 object는 $e^{-\hat{P}\theta} A e^{\hat{P}\theta}$이다.
+	- 
