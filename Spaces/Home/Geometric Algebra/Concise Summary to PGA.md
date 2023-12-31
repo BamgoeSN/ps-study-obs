@@ -93,4 +93,7 @@
 	- 전반적으로 outer product와 유사하다.
 	- 다만, 한 basis multivector가 다른 basis multivector에 "완전히" 포함되는 경우가 아니면 모든 항은 $0$이 되며, 그러한 경우라면 inner product는 geometric product가 된다.
 		- $e_{12} \cdot e_{134} = 0$
-		- 
+		- $e_{12} \cdot e_{124} = e_{12124} = -e_{11224}$
+### Left / Right Contraction
+- Contraction은 한쪽의 차원을 상쇄시킨다는 의미의 contraction이다.
+- Left contraction
